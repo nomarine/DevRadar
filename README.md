@@ -7,4 +7,4 @@ Aplicativo tem como finalidade o cadastro e a busca de pessoas que estejam inter
 
 # Agradecimentos
 
-Esse projeto deve total apoio da RocketSeat por meio de suas videoaulas durante a semana Omnistack.
+Esse projeto teve total apoio da RocketSeat por meio de suas videoaulas durante a semana Omnistack.
